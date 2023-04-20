@@ -71,7 +71,7 @@
   <a href="https://www.facebook.com/hoatrinh0112/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/hoatrinhdev" target="blank">
+  <a href="https://www.youtube.com/channel/UCHlO-3_ired7ZMLEEdAGupg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/hoatrinhdev" target="blank">
